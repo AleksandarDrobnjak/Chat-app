@@ -33,6 +33,95 @@ const Chat = () => {
             <div className="center">
                 <div className="message">
                     <img src="./avatar.png" alt="" />
+
+                    <div className="text">
+                        <p>
+                            Lorem ipsum dolor sit amet consectetur, adipisicing
+                            elit. Autem perferendis mollitia labore numquam,
+                            repellat fugit animi tempore, quo id delectus
+                            incidunt, optio cupiditate placeat doloribus! Nemo
+                            at laboriosam voluptatem magnam!
+                        </p>
+                        <span>1 min ago </span>
+                    </div>
+                </div>
+                <div className="message own">
+                    <img src="https://images.pexels.com/photos/305821/pexels-photo-305821.jpeg" alt="" />
+                    <div className="text">
+                        <p>
+                            Lorem ipsum dolor sit amet consectetur, adipisicing
+                            elit. Autem perferendis mollitia labore numquam,
+                            repellat fugit animi tempore, quo id delectus
+                            incidunt, optio cupiditate placeat doloribus! Nemo
+                            at laboriosam voluptatem magnam!
+                        </p>
+                        <span>1 min ago </span>
+                    </div>
+                </div>
+                <div className="message">
+                    <img src="./avatar.png" alt="" />
+                    <div className="text">
+                        <p>
+                            Lorem ipsum dolor sit amet consectetur, adipisicing
+                            elit. Autem perferendis mollitia labore numquam,
+                            repellat fugit animi tempore, quo id delectus
+                            incidunt, optio cupiditate placeat doloribus! Nemo
+                            at laboriosam voluptatem magnam!
+                        </p>
+                        <span>1 min ago </span>
+                    </div>
+                </div>
+                <div className="message own">
+                    <div className="text">
+                        <p>
+                            Lorem ipsum dolor sit amet consectetur, adipisicing
+                            elit. Autem perferendis mollitia labore numquam,
+                            repellat fugit animi tempore, quo id delectus
+                            incidunt, optio cupiditate placeat doloribus! Nemo
+                            at laboriosam voluptatem magnam!
+                        </p>
+                        <span>1 min ago </span>
+                    </div>
+                </div>
+                <div className="message">
+                    <img src="./avatar.png" alt="" />
+                    <div className="text">
+                        <p>
+                            Lorem ipsum dolor sit amet consectetur, adipisicing
+                            elit. Autem perferendis mollitia labore numquam,
+                            repellat fugit animi tempore, quo id delectus
+                            incidunt, optio cupiditate placeat doloribus! Nemo
+                            at laboriosam voluptatem magnam!
+                        </p>
+                        <span>1 min ago </span>
+                    </div>
+                </div>
+                <div className="message own">
+                    <div className="text">
+                        <p>
+                            Lorem ipsum dolor sit amet consectetur, adipisicing
+                            elit. Autem perferendis mollitia labore numquam,
+                            repellat fugit animi tempore, quo id delectus
+                            incidunt, optio cupiditate placeat doloribus! Nemo
+                            at laboriosam voluptatem magnam!
+                        </p>
+                        <span>1 min ago </span>
+                    </div>
+                </div>
+                <div className="message ">
+                    <img src="./avatar.png" alt="" />
+                    <div className="text">
+                        <p>
+                            Lorem ipsum dolor sit amet consectetur, adipisicing
+                            elit. Autem perferendis mollitia labore numquam,
+                            repellat fugit animi tempore, quo id delectus
+                            incidunt, optio cupiditate placeat doloribus! Nemo
+                            at laboriosam voluptatem magnam!
+                        </p>
+                        <span>1 min ago </span>
+                    </div>
+                </div>
+                <div className="message own">
                     <div className="text">
                         <p>
                             Lorem ipsum dolor sit amet consectetur, adipisicing
